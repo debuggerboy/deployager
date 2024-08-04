@@ -1,0 +1,2 @@
+repo_url: git@github.com:yourgithub/your-repo.git
+clone_dir: /var/www/html/deployager/releases/
